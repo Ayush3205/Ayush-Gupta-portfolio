@@ -147,39 +147,39 @@ const techStackIcons = [
 
 const expCards = [
   {
-      review: "Ayush’s work on Rosmerta Technology Limited brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
+      review: "Ayush’s contributions at Rosmerta Technology Limited significantly elevated the quality and performance of our web platform. His full-stack development expertise led to robust, secure, and scalable solutions that enhanced the user experience and aligned seamlessly with our product objectives.",
       imgPath: "/images/exp3.png",
       logoPath: "/images/logo3.png",
       title: "Full Stack Developer",
       date: "August 2024 - Present",
       responsibilities: [
-          "Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
-          "Improved app performance and user experience through code optimization and testing.",
-          "Coordinated with the product team to implement features based on feedback.",
+          "Built a full-stack web application using the MERN stack with Next.js and Tailwind CSS, featuring responsive user and admin dashboards for course browsing, purchasing, and management.",
+          "Implemented secure authentication using JWT and OTP-based login, integrated Razorpay for payments, and added role-based access control for Admin, Moderator, and Creator roles.",
+          "Developed features like dynamic course CRUD operations, S3-based file uploads for certificates/resources, and user dashboards with order history, progress tracking, and certificate downloads.",
       ],
   },
   {
-      review: "Ayush's brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+      review: "Ayush combined creativity with technical expertise, playing a crucial role in optimizing frontend performance. His contributions significantly enhanced the user experience and were vital in delivering faster, more reliable web solutions.",
       imgPath: "/images/exp1.png",
       logoPath: "/images/logo1.png",
       title: "Freelance Project",
       date: "December 2024 - Feburary 2025",
       responsibilities: [
-          "Developed and maintained user-facing features for the Hostinger website.",
-          "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
-          "Optimized web applications for maximum speed and scalability.",
+          "Developed and deployed a professional portfolio website for a client as part of a freelance project with an agency, using React and Next.js to ensure a modern, responsive, and SEO-optimized design.",
+          "Integrated real-time email response functionality to instantly notify the client upon form submissions, improving communication and client engagement.",
+          "Optimized site performance and accessibility, enhancing user experience, increasing engagement, and improving site speed.",
       ],
   },
   {
-      review: "Ayush’s contributions to Asura Studios web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
+      review: "Ayush brought a strong blend of creativity and technical expertise to our team, playing a key role in optimizing frontend performance. His contributions directly enhanced user experience and were instrumental in delivering faster, more reliable web solutions.",
       imgPath: "/images/exp2.png",
       logoPath: "/images/logo2.png",
       title: "Web Developer",
       date: "June 2020 - December 2023",
       responsibilities: [
-          "Led the development of Docker's web applications, focusing on scalability.",
-          "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
-          "Contributed to open-source projects that were used with the Docker ecosystem.",
+          "Enhanced the e-commerce user experience by improving the Cart Screen UI and integrating RESTful APIs for cart management, OTP verification, and user authentication flows.",
+          "Built and maintained scalable CI/CD pipelines using Jenkins for Java, .NET, and Node.js applications, reducing deployment time and manual intervention.",
+          "Configured AWS CloudWatch dashboards and alerts for real-time monitoring and log analysis, improving system visibility and accelerating incident detection.",
       ],
   },
 ];
