@@ -223,7 +223,7 @@ const testimonials = [
   },
   {
       name: "Satvik Mangal",
-      mentions: "@marvinmckinney",
+      mentions: "@_mangalsatvik.",
       review:
           "Ayush was a pleasure to work with. He turned our outdated website into a fresh, intuitive platform that’s both modern and easy to navigate. Fantastic work overall.",
       imgPath: "/images/client5.png",
