@@ -146,18 +146,35 @@ const techStackIcons = [
 ];
 
 const expCards = [
-  {
+//   #1 Rosmerta
+    {
       review: "Ayush’s contributions at Rosmerta Technology Limited significantly elevated the quality and performance of our web platform. His full-stack development expertise led to robust, secure, and scalable solutions that enhanced the user experience and aligned seamlessly with our product objectives.",
       imgPath: "/images/exp3.png",
       logoPath: "/images/logo3.png",
       title: "Full Stack Developer",
       date: "August 2024 - Present",
       responsibilities: [
-          "Built a full-stack web application using the MERN stack with Next.js and Tailwind CSS, featuring responsive user and admin dashboards for course browsing, purchasing, and management.",
-          "Implemented secure authentication using JWT and OTP-based login, integrated Razorpay for payments, and added role-based access control for Admin, Moderator, and Creator roles.",
-          "Developed features like dynamic course CRUD operations, S3-based file uploads for certificates/resources, and user dashboards with order history, progress tracking, and certificate downloads.",
+        "Architected a responsive admin dashboard using React.js, Tailwind CSS, ApexCharts, and Redux for real-time monitoring of driving tests and assessment results.",
+        "Integrated 20+ RESTful APIs with Axios to manage candidate data, examiner logs, and assessment outcomes with advanced search, filtering, and pagination.",
+        "Implemented OTP-based JWT authentication with role-based access control (Admin, Examiner, Candidate) and optimized Redux Toolkit state management for 30% better performance.",
+        "Optimized global/local state management and implemented CI/CD pipelines, reducing admin lookup time by 40% and improving deployment efficiency.",
       ],
   },
+  //   #2 esante
+  {
+      review: "Ayush’s contributions to the Esante web platform significantly elevated both user experience and delivery quality. His front-end engineering expertise enabled responsive, scalable, and conversion-focused solutions that aligned closely with product goals while improving performance, maintainability, and overall platform consistency.",
+      imgPath: "/images/exp4.png",
+      logoPath: "/images/logo4.png",
+      title: "Full Stack Developer",
+      date: "May 2024 - July 2024",
+      responsibilities: [
+        "Built and maintained a multi-page React web platform for an Australia-focused education and migration brand, implementing routing and scalable page architecture across core services, resources, and consultation flows.",
+        "Developed reusable UI components (header, footer, banners, popups, FAQs, CTA modules) to ensure consistent branding, faster feature delivery, and easier long-term maintenance.",
+        "Implemented responsive, high-fidelity front-end experiences using modern CSS/Tailwind patterns, including interactive sections, animated hero behavior, and mobile-first layouts for improved engagement across devices.",
+        "Integrated and optimized lead-capture and conversion journeys (consultation popups, enquiry CTAs, service discovery paths) to align UX decisions with business goals and improve user action completion.",
+      ],
+  },
+  //   #3 ksl
   {
       review: "Ayush combined creativity with technical expertise, playing a crucial role in optimizing frontend performance. His contributions significantly enhanced the user experience and were vital in delivering faster, more reliable web solutions.",
       imgPath: "/images/exp1.png",
@@ -170,6 +187,7 @@ const expCards = [
           "Optimized site performance and accessibility, enhancing user experience, increasing engagement, and improving site speed.",
       ],
   },
+  //   #4 asura
   {
       review: "Ayush brought a strong blend of creativity and technical expertise to our team, playing a key role in optimizing frontend performance. His contributions directly enhanced user experience and were instrumental in delivering faster, more reliable web solutions.",
       imgPath: "/images/exp2.png",
@@ -196,6 +214,10 @@ const expLogos = [
   {
       name: "logo3",
       imgPath: "/images/logo3.png",
+  },
+  {
+      name: "logo4",
+      imgPath: "/images/logo4.png",
   },
 ];
 

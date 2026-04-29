@@ -53,11 +53,10 @@ const AppShowcase = () => {
             </div>
             <div className="text-content">
               <h2>
-                On-Demand Pizza delivery App, User-Friendly App
+                Practice real interview questions & get instant feedback. 
               </h2>
               <p className="text-white-50 md:text-xl">
-                An app built with React Native, Expo, & Expo Go Order food fast,
-                user-friendly experience.
+                Mock interviews with AI, live Interviews and get instant feedback.
               </p>
             </div>
           </div>
